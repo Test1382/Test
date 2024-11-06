@@ -1,2 +1,0 @@
-print('abcdefg')
-print('hijklmn')
